@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="212fc1be-99c2-4c5d-a5d6-932fff4be8e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Task_5/WhatIsYourName.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_5/WhatIsYourName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_2/LearnJSTask2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaScriptTasks/Task_2/LearnJSTask2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_2/alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaScriptTasks/Task_2/alert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_1/FirstJavaScriptProgramm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_2/LearnJSTask2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_2/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_3-4/Task4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_3-4/Task_3-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_3-4/Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_5/WhatIsYourName.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScriptTasks/Task_5/WhatIsYourName.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,16 +25,17 @@
     <session id="-947982692">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="2" />
           <entry key="html" value="2" />
           <entry key="js" value="5" />
         </counts>
@@ -41,6 +44,7 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="JavaScript" value="5" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -62,33 +66,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../JavaScriptTasks/Task_3-4/Task4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task_5/WhatIsYourName.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task_5/WhatIsYourName.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Task_5/WhatIsYourName.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -129,7 +129,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="372" />
@@ -138,11 +138,21 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="LearnJavaScript" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,16 +203,16 @@
       <workItem from="1538129527665" duration="15000" />
       <workItem from="1538138202456" duration="113000" />
       <workItem from="1538139439885" duration="776000" />
-      <workItem from="1538389284152" duration="809000" />
+      <workItem from="1538389284152" duration="2011000" />
+      <workItem from="1538393991983" duration="779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3545000" />
+    <option name="totallyTimeSpent" value="5526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -249,17 +259,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Task_5/WhatIsYourName.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -269,6 +272,19 @@
           <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
