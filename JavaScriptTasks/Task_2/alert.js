@@ -1,1 +1,2 @@
-alert('Я - JavaScript!');
+var a = "Я - JavaScript";
+alert(a);
