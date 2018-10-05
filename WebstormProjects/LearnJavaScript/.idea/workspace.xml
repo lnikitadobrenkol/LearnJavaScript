@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="212fc1be-99c2-4c5d-a5d6-932fff4be8e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Recursion/factorial_x!/factorial_x!.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/factorial_x!/factorial_x!.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/fibonachi/fibonachi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/fibonachi/fibonachi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/sumTo/sumTo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/sumTo/sumTo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gitignore.gitignore" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +18,7 @@
     <session id="-947982692">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="4" />
@@ -50,7 +43,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="30" />
+          <entry key="gitignore" value="31" />
           <entry key="html" value="225" />
           <entry key="js" value="4765" />
         </counts>
@@ -59,7 +52,7 @@
         <counts>
           <entry key="HTML" value="225" />
           <entry key="JavaScript" value="4765" />
-          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="PLAIN_TEXT" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -117,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -227,7 +220,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="372" />
@@ -341,16 +334,15 @@
       <workItem from="1538389284152" duration="2011000" />
       <workItem from="1538393991983" duration="779000" />
       <workItem from="1538398655457" duration="19219000" />
-      <workItem from="1538563016834" duration="7751000" />
+      <workItem from="1538563016834" duration="8714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32496000" />
+    <option name="totallyTimeSpent" value="33459000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -580,7 +572,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
